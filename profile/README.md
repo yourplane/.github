@@ -141,6 +141,6 @@ Core components:
 
 # Vision
 
-> As software becomes easier to build, more people will build it.
-> 
-> Yourplane aims to give those developers the same level of control, structure, and power that previously required a full platform team.
+As software becomes easier to build, more people will build it.
+
+Yourplane aims to give those developers the same level of control, structure, and power that previously required a full platform team.
