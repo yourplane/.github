@@ -1,6 +1,8 @@
 # Yourplane
 
-Run and collaborate with AI agents in infrastructure you control. It's your control plane.
+Run and collaborate with AI agents in infrastructure you control.
+
+It's your control plane.
 
 # Overview
 
